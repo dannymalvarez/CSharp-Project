@@ -51,6 +51,8 @@ C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\ro
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\roslyn\VBCSCompiler.exe
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Antlr3.Runtime.dll
+C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\EntityFramework.dll
+C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\EntityFramework.SqlServer.dll
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Sy
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\System.Web.WebPages.dll
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\System.Web.WebPages.Razor.dll
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\WebGrease.dll
+C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\EntityFramework.xml
+C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\EntityFramework.SqlServer.xml
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\System.Web.Helpers.xml
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\System.Web.Mvc.xml
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\System.Web.Optimization.xml
@@ -72,7 +76,6 @@ C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Sy
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Newtonsoft.Json.xml
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Antlr3.Runtime.pdb
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\obj\Debug\hydrateOrDiedrate.csproj.AssemblyReference.cache
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\obj\Debug\hydrateOrDiedrate.csproj.CoreCompileInputs.cache
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\obj\Debug\hydrateOrDiedrate.csproj.CopyComplete
 C:\Users\danny\Desktop\CSharp-Project\hydrateOrDiedrate\hydrateOrDiedrate\obj\Debug\hydrateOrDiedrate.dll
